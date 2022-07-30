@@ -37,3 +37,11 @@ ___
 
 Cite this repository:
 
+```
+@misc{CitekeyMisc,
+  title        = "Functional connectivity differences between ECoG signals during motor movement vs. motor imagery",
+  author       = "{Chen, Minjing & Fowler, Lorna & Ghosh, Ritobrata & Matveev, Grigory & Mert, Sezan & Patiño, Marco & Pinto, Margarida & Rothe, Kai}",
+  howpublished = "\url{https://github.com/ghosh-r/functional-connectivity-motor-imagery}",
+  year         = 2022,
+  note         = "Group Project of Neuromatch Academy 2022"
+```
